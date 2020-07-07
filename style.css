@@ -1,0 +1,69 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.banner-bg{
+    background-image: linear-gradient(to bottom, rgba(129, 245, 119, 0.952), #99a6f1 100%);
+    border-radius: 20px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #FF136F;
+}
+.buy-now{
+    background-image: linear-gradient(to bottom, rgb(230, 208, 13), #f02551 100%);
+    color: #fff;
+    border-radius: 10px;
+    padding: 5px 25px;
+    cursor: pointer;
+}
+.buy-now:hover{
+    cursor: pointer;
+    box-shadow: 2px 2px 5px rgb(36, 14, 238);
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 60px;
+    border-radius: 15px;
+}
+.cat1{
+    background-image: linear-gradient(to right, rgb(54, 40, 247), #faf615 100%);
+}
+.cat2{
+    background-image: linear-gradient(to right, rgb(236, 93, 68), #51f751 100%);
+}
+.cat3{
+    background-image: linear-gradient(to right, rgb(202, 99, 243), #b3c6f0 100%);
+}
+.catagories h1{
+    color: #fff;
+}
+.catagories img{
+    width: 100%;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px rgb(191, 215, 235);
+    
+}
+.contact-bg{
+    height: 300px;
+    background-image: linear-gradient(to bottom, rgba(207, 245, 119, 0.952), #ad92cf 100%);
+    border-radius: 30px;
+}
+.contact-bg h3{
+    color: rgb(26, 18, 18);
+}
+.contact-bg h5{
+    color: rgb(151, 61, 236);
+    padding-bottom: 10px;
+}
+.contact-bg button{
+    background: rgb(179, 7, 7);
+    margin-top: 10px;
+}
+#main-footer{
+    text-align: center;
+    font-size: 12px;
+}
